@@ -6,7 +6,7 @@ Connects Ollama LLM to Butterfly RSI v4.5 framework for:
 - Auto-reflection and self-improvement loops
 - Dream consolidation of valuable memories
 - Domain-specific persona development
-- **NOW WITH CONVERSATION MEMORY**
+- **NOW WITH %99 MORE INDENTATION!**
 
 Requires: butterfly_rsi_v4_5.py in the same directory
 """
