@@ -3,6 +3,7 @@
 ## What You Need
 
 ✅ **butterfly_ollama.py** - Integration wrapper connecting Ollama to your Butterfly framework
+
 ✅ **butterfly_rsi_v4_5.py file to this directory** - Core Engine for Butterfly framework  
 ✅ **README.md** - Complete documentation
 ✅ **quickstart.sh** - Automated setup script
