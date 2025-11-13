@@ -1,15 +1,13 @@
 # 🦋 GETTING STARTED - Quick Reference
 
-## What You Have
+## What You Need
 
 ✅ **butterfly_ollama.py** - Integration wrapper connecting Ollama to your Butterfly framework
+✅ **butterfly_rsi_v4_5.py file to this directory** - Core Engine for Butterfly framework  
 ✅ **README.md** - Complete documentation
 ✅ **quickstart.sh** - Automated setup script
 ✅ **examples.py** - Example usage scripts (WiFi security, creative writing, batch analysis)
 
-## What You Need to Add
-
-📋 **butterfly_rsi_v4_5.py** - Your Butterfly RSI v4.5 framework file (the one you uploaded)
 
 ## Setup Steps (5 minutes)
 
