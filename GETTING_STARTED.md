@@ -180,46 +180,5 @@ Contains:
 5. ✅ Build your own custom personas
 6. ✅ Analyze saved session JSON files
 
-## WiFi Pentesting Persona Idea
-
-Perfect fit for your WiFi lab work:
-
-```python
-agent = ButterflyAgent(
-    persona_name="WiFiHunter",
-    domain_focus=[
-        "WiFi penetration testing",
-        "802.11 protocols",
-        "WPA/WPA2/WPA3 attacks",
-        "handshake capture",
-        "PMKID attacks",
-        "deauth techniques",
-        "Kali Linux tools"
-    ],
-    ethical_constraints=[
-        "own networks only",
-        "lab environment",
-        "responsible disclosure",
-        "educational purpose"
-    ],
-    model="llama3"
-)
-```
-
-Then ask it about:
-- Capturing handshakes with your new PAU0D adapter
-- PMKID attack techniques
-- Best aircrack-ng workflows
-- Troubleshooting capture issues
-- Optimizing your WiFi lab setup
-
-The AI will evolve its personality based on the types of questions you ask and how well it performs!
-
-## Questions?
-
-Everything is documented in:
-- **README.md** - Full documentation
-- Code comments in butterfly_ollama.py
-- Your original butterfly_rsi_v4_5.py
 
 Have fun! 🦋🔒
